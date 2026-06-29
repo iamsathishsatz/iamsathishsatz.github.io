@@ -501,16 +501,9 @@
                             <strong>Challenge:</strong> The business needed real-time visibility into customer account abandonment patterns across multiple channels (Web, Android, iOS) to enable targeted retargeting campaigns and improve customer retention.
                         </div>
                         
-                        <!-- Image Placeholder -->
-                        <div class="image-placeholder">
-                            <div class="placeholder-icon">📊</div>
-                            <div class="placeholder-text">Project Dashboard Screenshot</div>
+                         <div class="placeholder-text">Project Dashboard Screenshot</div>
                             <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2188" height="1468" alt="Portfolio Abondanor" src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77" />
 </div>
-                        </div>
-                        
-                        <div class="info-box">
-                            <strong>ℹ️ Image Placeholder:</strong> This space is reserved for your actual Tableau dashboard screenshot or project visualization. Replace with your actual project image.
                         </div>
                         
                         <div class="project-description">
