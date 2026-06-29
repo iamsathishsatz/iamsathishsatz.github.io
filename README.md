@@ -505,7 +505,8 @@
                         <div class="image-placeholder">
                             <div class="placeholder-icon">📊</div>
                             <div class="placeholder-text">Project Dashboard Screenshot</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;">Add your dashboard image here</div>
+                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2188" height="1468" alt="Portfolio Abondanor" src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77" />
+</div>
                         </div>
                         
                         <div class="info-box">
@@ -565,7 +566,8 @@
                         <div class="image-placeholder">
                             <div class="placeholder-icon">💳</div>
                             <div class="placeholder-text">Activation Analysis Dashboard</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;">Add your dashboard image here</div>
+                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2447" height="1379" alt="Portfolio Activation Summary" src="https://github.com/user-attachments/assets/be9fec8c-4837-4e42-b763-b34bc0e93fec" />
+</div>
                         </div>
                         
                         <div class="info-box">
@@ -627,7 +629,8 @@
                         <div class="image-placeholder">
                             <div class="placeholder-icon">🔔</div>
                             <div class="placeholder-text">Notification Flow Tubemap</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;">Add your dashboard image here</div>
+                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2440" height="1334" alt="Portfolio Notification" src="https://github.com/user-attachments/assets/ef81a980-c3ef-4b09-b29e-4da24dd9db0e" />
+</div>
                         </div>
                         
                         <div class="info-box">
