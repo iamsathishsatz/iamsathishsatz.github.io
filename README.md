@@ -470,7 +470,7 @@
                         
                         <!-- CLEAN IMAGE DISPLAY -->
                         <div class="project-image-wrapper">
-                            <img src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77" alt="Marketing Abandonment Retargeting Dashboard" />
+                            <img src="images/Portfolio Abondanor.jpg" alt="Marketing Abandonment Retargeting Dashboard" />
                         </div>
                         
                         <div class="project-description">
@@ -580,7 +580,7 @@
                         
                         <!-- CLEAN IMAGE DISPLAY -->
                         <div class="project-image-wrapper">
-                            <img src="https://github.com/user-attachments/assets/ef81a980-c3ef-4b09-b29e-4da24dd9db0e" alt="Payments Notifications Tubemap" />
+                            <img src="images/Portfolio Abondanor.jpg" alt="Payments Notifications Tubemap" />
                         </div>
                         
                         <div class="project-description">
