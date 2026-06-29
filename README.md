@@ -524,7 +524,7 @@
                         
                         <!-- CLEAN IMAGE DISPLAY -->
                         <div class="project-image-wrapper">
-                            <img src="https://github.com/user-attachments/assets/be9fec8c-4837-4e42-b763-b34bc0e93fec" alt="Credit Card Activation Summary Dashboard" />
+                            <img src="images/Portfolio Activation Summary.jpg" alt="Credit Card Activation Summary Dashboard" />
                         </div>
                         
                         <div class="project-description">
