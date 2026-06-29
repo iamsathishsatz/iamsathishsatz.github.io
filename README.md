@@ -502,7 +502,7 @@
                         </div>
                         
                          <div class="placeholder-text">Project Dashboard Screenshot</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2188" height="1468" alt="Portfolio Abondanor" src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77" />
+                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2188" height="1468" alt="Portfolio Abondanor" src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77.jpg" />
 </div>
                         </div>
                         
