@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -202,46 +201,18 @@
             line-height: 1.8;
         }
         
-        /* Image Placeholder Styling */
-        .image-placeholder {
-            width: 100%;
-            height: 350px;
-            margin: 20px 0;
+        /* IMAGE STYLING - CLEAN & SIMPLE */
+        .project-image-wrapper {
+            margin: 25px 0;
             border-radius: 8px;
-            border: 2px dashed #667eea;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: linear-gradient(135deg, #f0f4ff 0%, #e8f0ff 100%);
-            flex-direction: column;
-            gap: 10px;
-            color: #667eea;
-            font-size: 1em;
-            text-align: center;
-            padding: 20px;
-            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }
         
-        .image-placeholder.filled {
-            border: 1px solid #e0e0e0;
-            background: transparent;
-        }
-        
-        .image-placeholder.filled img {
+        .project-image-wrapper img {
             width: 100%;
-            height: 100%;
-            object-fit: cover;
-            border-radius: 6px;
-        }
-        
-        .placeholder-icon {
-            font-size: 3em;
-            opacity: 0.5;
-        }
-        
-        .placeholder-text {
-            font-size: 0.9em;
-            opacity: 0.7;
+            height: auto;
+            display: block;
         }
         
         .project-metrics {
@@ -434,10 +405,6 @@
             .project-meta {
                 gap: 10px;
             }
-            
-            .image-placeholder {
-                height: 250px;
-            }
         }
     </style>
 </head>
@@ -501,9 +468,9 @@
                             <strong>Challenge:</strong> The business needed real-time visibility into customer account abandonment patterns across multiple channels (Web, Android, iOS) to enable targeted retargeting campaigns and improve customer retention.
                         </div>
                         
-                         <div class="placeholder-text">Project Dashboard Screenshot</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2188" height="1468" alt="Portfolio Abondanor" src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77.jpg" />
-</div>
+                        <!-- CLEAN IMAGE DISPLAY -->
+                        <div class="project-image-wrapper">
+                            <img src="https://github.com/user-attachments/assets/e618fd39-4ecf-4664-8f3c-ffdc2c227f77" alt="Marketing Abandonment Retargeting Dashboard" />
                         </div>
                         
                         <div class="project-description">
@@ -555,16 +522,9 @@
                             <strong>Challenge:</strong> Finance and Product teams needed comprehensive visibility into credit card application activation patterns, time-to-activation, and customer behavior post-activation to optimize onboarding processes and improve product performance.
                         </div>
                         
-                        <!-- Image Placeholder -->
-                        <div class="image-placeholder">
-                            <div class="placeholder-icon">💳</div>
-                            <div class="placeholder-text">Activation Analysis Dashboard</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2447" height="1379" alt="Portfolio Activation Summary" src="https://github.com/user-attachments/assets/be9fec8c-4837-4e42-b763-b34bc0e93fec" />
-</div>
-                        </div>
-                        
-                        <div class="info-box">
-                            <strong>ℹ️ Image Placeholder:</strong> This space is reserved for your actual Power BI or Tableau dashboard screenshot. Replace with your actual project image.
+                        <!-- CLEAN IMAGE DISPLAY -->
+                        <div class="project-image-wrapper">
+                            <img src="https://github.com/user-attachments/assets/be9fec8c-4837-4e42-b763-b34bc0e93fec" alt="Credit Card Activation Summary Dashboard" />
                         </div>
                         
                         <div class="project-description">
@@ -618,16 +578,9 @@
                             <strong>Challenge:</strong> The business required end-to-end visibility into notification request flows, success/failure tracking, and SLA compliance across multiple communication channels and architectures to ensure reliable customer notification delivery.
                         </div>
                         
-                        <!-- Image Placeholder -->
-                        <div class="image-placeholder">
-                            <div class="placeholder-icon">🔔</div>
-                            <div class="placeholder-text">Notification Flow Tubemap</div>
-                            <div class="placeholder-text" style="font-size: 0.8em; opacity: 0.5;"><img width="2440" height="1334" alt="Portfolio Notification" src="https://github.com/user-attachments/assets/ef81a980-c3ef-4b09-b29e-4da24dd9db0e" />
-</div>
-                        </div>
-                        
-                        <div class="info-box">
-                            <strong>ℹ️ Image Placeholder:</strong> This space is reserved for your actual Tableau Tubemap visualization or dashboard screenshot. Replace with your actual project image.
+                        <!-- CLEAN IMAGE DISPLAY -->
+                        <div class="project-image-wrapper">
+                            <img src="https://github.com/user-attachments/assets/ef81a980-c3ef-4b09-b29e-4da24dd9db0e" alt="Payments Notifications Tubemap" />
                         </div>
                         
                         <div class="project-description">
